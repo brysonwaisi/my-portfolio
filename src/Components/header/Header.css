@@ -41,15 +41,16 @@ header {
 
 /* ****** BRY ******** */
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+    background: var(--color-white);
+    width: 20rem;
+    height: 35rem;
     position:absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 10rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
+    
 }
 
 /* ****** SCROLL Down ******** */

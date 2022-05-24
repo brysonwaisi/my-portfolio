@@ -6,9 +6,7 @@ const Services = () => {
   return (
     <section id="services">
     <h5>What I offer</h5>
-    <h2>
-      Services
-    </h2>
+    <h2>Services</h2>
 
     <div className="container services__container">
       <article className="service">
@@ -23,7 +21,7 @@ const Services = () => {
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />
-            <p>Visual design and design software</p>
+            <p>Visual and software design</p>
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />
@@ -53,11 +51,7 @@ const Services = () => {
         <ul className="service__list">
           <li>
             <GiCheckMark className='service__list-icon' />
-            <p>HTML/CSS/JavaScript</p>
-          </li>
-          <li>
-            <GiCheckMark className='service__list-icon' />
-            <p>React</p>
+            <p>Frontend Development (HTML/CSS/JavaScript & React)</p>
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />
@@ -95,15 +89,15 @@ const Services = () => {
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />
-            <p>Create Content and Manage Content Distribution</p>
+            <p>Create Content and Manage Distribution</p>
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />
-            <p>Collaborate With Other Departments on Content Creation</p>
+            <p>Collaborate With Other Departments</p>
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />
-            <p>Analyze Key Performance Indicators to Determine Content Effectiveness</p>
+            <p>Analyze Key Performance Indicators</p>
           </li>
           <li>
             <GiCheckMark className='service__list-icon' />

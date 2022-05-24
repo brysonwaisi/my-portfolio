@@ -1,55 +1,55 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/portfolio1.PNG'
+// import IMG2 from '../../assets/portfolio2.jpg'
+import IMG3 from '../../assets/portfolio3.PNG'
+import IMG4 from '../../assets/portfolio4.PNG'
+import IMG5 from '../../assets/portfolio5.PNG'
+import IMG6 from '../../assets/portfolio6.PNG'
 
 
 const data = [
   {
     id: 1, 
     image: IMG1,
-    title: 'Covid-19 No predictor',
-    github: 'https://github.com',
-    demo: 'https://demolink.com'
+    title: 'Pixel Art Maker',
+    github: 'https://github.com/brysonwaisi/alc-challenge',
+    demo: 'https://brysonwaisi.github.io/alc-challenge/'
   },
-  {
-    id: 2, 
-    image: IMG2,
-    title: 'Budger App',
-    github: 'https://github.com',
-    demo: 'https://demolink.com'
-  },
+  // {
+  //   id: 2, 
+  //   image: IMG2,
+  //   title: 'Budger App',
+  //   github: 'https://github.com/brysonwaisi/team-185-frontend',
+  //   demo: 'https://demolink.com'
+  // },
   {
     id: 3, 
-    image: IMG1,
-    title: 'Farming Assistant',
-    github: 'https://github.com',
-    demo: 'https://demolink.com'
-  },
-  {
-    id: 4, 
-    image: IMG4,
-    title: 'Covid-19 No predictor',
-    github: 'https://github.com',
-    demo: 'https://demolink.com'
+    image: IMG3,
+    title: 'Codebank Landing Page',
+    github: 'https://github.com/brysonwaisi/CodeBank-landing-page',
+    demo: 'https://brysonwaisi.github.io/CodeBank-landing-page/'
   },
   {
     id: 5, 
-    image: IMG6,
-    title: 'Covid-19 No predictor',
-    github: 'https://github.com',
-    demo: 'https://demolink.com'
+    image: IMG5,
+    title: 'Weather App',
+    github: 'https://github.com/brysonwaisi/weather-app',
+    demo: 'https://brysonwaisi.github.io/weather-app/'
   },
   {
     id: 6, 
     image: IMG6,
-    title: 'Covid-19 No predictor',
-    github: 'https://github.com',
-    demo: 'https://demolink.com'
+    title: 'Maps Clone',
+    github: 'https://github.com/brysonwaisi/Map-Clone',
+    demo: 'https://brysonwaisi.github.io/Map-Clone/'
+  },
+  {
+    id: 4, 
+    image: IMG4,
+    title: 'Album Store - Angular',
+    github: 'https://github.com/brysonwaisi/Angular-AlbumStoreProductPage',
+    demo: 'https://ps-project-angular-album-store.herokuapp.com/products'
   }
 
 ]
@@ -58,7 +58,7 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
       <h5>My Work</h5>
-      <h2>Portfolio</h2>
+      <h2>Portfolio</h2> 
 
       <div className="container portfolio__container">
         {
