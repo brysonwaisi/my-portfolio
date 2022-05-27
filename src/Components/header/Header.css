@@ -12,7 +12,7 @@ header {
 
 /* ****** CTA ******** */
 
-.cta{
+.cta {
     margin-top: 2.5rem;
     display: flex;
     gap: 1.2rem;
@@ -21,7 +21,7 @@ header {
 
 /* ****** Header Socials ******** */
 
-.header__socials{
+.header__socials {
     display: flex;
     flex-direction: column;
     align-items: center;
