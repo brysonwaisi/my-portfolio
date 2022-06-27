@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.PNG'
 // import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.PNG'
 import IMG4 from '../../assets/portfolio4.PNG'
-import IMG5 from '../../assets/portfolio5.PNG'
+// import IMG5 from '../../assets/portfolio5.PNG'
 import IMG6 from '../../assets/portfolio6.PNG'
 
 
@@ -30,13 +30,13 @@ const data = [
     github: 'https://github.com/brysonwaisi/CodeBank-landing-page',
     demo: 'https://brysonwaisi.github.io/CodeBank-landing-page/'
   },
-  {
-    id: 5, 
-    image: IMG5,
-    title: 'Weather App',
-    github: 'https://github.com/brysonwaisi/weather-app',
-    demo: 'https://brysonwaisi.github.io/weather-app/'
-  },
+  // {
+  //   id: 5, 
+  //   image: IMG5,
+  //   title: 'Weather App',
+  //   github: 'https://github.com/brysonwaisi/weather-app',
+  //   demo: 'https://brysonwaisi.github.io/weather-app/'
+  // },
   {
     id: 6, 
     image: IMG6,
