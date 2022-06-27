@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b71c56b.css",
+    "main.js": "/static/js/main.f05446e9.js",
+    "static/media/CV Bryson.pdf": "/static/media/CV Bryson.9c8f85d46c6debe98662.pdf",
+    "static/media/portfolio6.PNG": "/static/media/portfolio6.a8ebdbab4abf6c25200e.PNG",
+    "static/media/portfolio4.PNG": "/static/media/portfolio4.047887bdd259f6303b41.PNG",
+    "static/media/portfolio3.PNG": "/static/media/portfolio3.400c7499d85892e70ec5.PNG",
+    "static/media/Bry.jpg": "/static/media/Bry.86c90cb3a3db850b983b.jpg",
+    "static/media/portfolio5.PNG": "/static/media/portfolio5.1624777b5e129c26a9de.PNG",
+    "static/media/portfolio1.PNG": "/static/media/portfolio1.c28d0bb1669c0b45df04.PNG",
+    "index.html": "/index.html",
+    "main.5b71c56b.css.map": "/static/css/main.5b71c56b.css.map",
+    "main.f05446e9.js.map": "/static/js/main.f05446e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b71c56b.css",
+    "static/js/main.f05446e9.js"
+  ]
+}
