@@ -31,13 +31,11 @@ Contains my information and CV
 
 <center> <h2>General Use</h2> </center>
 
-```
 1. First clone this repository.
 
-```
+
 2. Once the repository is cloned run npm start
 
-```
 
 ## Author :black_nib:
 * **Bryson Nyamwange** <[brysonwaisi](https://github.com/brysonwaisi)>
