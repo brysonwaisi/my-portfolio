@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - This is my personal portfolio site
 
 ## Portfolio Link: https://my-portfolio-six-beta.vercel.app/
 
