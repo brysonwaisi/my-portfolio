@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Hi, I’m Bryson, a Fullstack Software Engineer who loves building applications for education and community development. I recently developed web apps that focus on the COVID-19 pandemic and alleviating hunger levels to zero in society. I am passionate about mathematics and I'd love to combine my passion for learning with my software development skills to continue building community development products for people.
+            Hi, I’m Bryson, a Software Engineer that loves building software and applications.
           </p>
 
           <a href='#contact' className='btn btn-primary'> Reach Out</a>
