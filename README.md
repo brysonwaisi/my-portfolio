@@ -34,7 +34,7 @@ Contains my information and CV
 1. First clone this repository.
 
 
-2. Once the repository is cloned run npm start
+2. Once the repository is cloned run `npm install and npm start`
 
 
 ## Author :black_nib:
