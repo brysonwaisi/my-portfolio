@@ -31,7 +31,7 @@ const Contact = () => {
           <article className="contact__option">
             <MdEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>brysonnyamwange@gmail.com</h5>
+            {/* <h5>brysonnyamwange@gmail.com</h5> */}
             <a
               href="mailto:brysonnyamwange@gmail.com"
               target="_blank"
@@ -44,7 +44,7 @@ const Contact = () => {
           <article className="contact__option">
             <FaFacebookMessenger className="contact__option-icon" />
             <h4>Messenger</h4>
-            <h5>Bryson Nyamwange</h5>
+            {/* <h5>Bryson Nyamwange</h5> */}
             <a
               href="https://m.me/bryson.nyamwange"
               target="_blank"
@@ -54,7 +54,7 @@ const Contact = () => {
             </a>
           </article>
 
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <FaWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <a
@@ -64,7 +64,7 @@ const Contact = () => {
             >
               Send a Message
             </a>
-          </article>
+          </article> */}
         </div>
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>

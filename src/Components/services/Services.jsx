@@ -69,10 +69,10 @@ const Services = () => {
             <GiCheckMark className='service__list-icon' />
             <p>Backend Integration</p>
           </li>
-          <li>
+          {/* <li>
             <GiCheckMark className='service__list-icon' />
             <p>Search Engine Optimization</p>
-          </li>
+          </li> */}
         </ul>
       </article>
       {/* END OF WEB DEVELOPMENT */}
