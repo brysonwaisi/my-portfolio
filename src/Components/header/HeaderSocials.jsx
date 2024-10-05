@@ -7,7 +7,7 @@ const HeaderSocials = () => {
   return (
     <div className="header__socials">
       <a
-        href="https://www.linkedin.com/in/bryson-nyamwange-a2b21014a/"
+        href="https://www.linkedin.com/in/nyamwangeb/"
         target="_blank"
         rel="noreferrer"
       >
