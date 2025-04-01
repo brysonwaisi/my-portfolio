@@ -1,7 +1,7 @@
 //call to action - CTA 
 
 import React from 'react'
-import CV from '../../assets/Bryson Nyamwange.pdf'
+import CV from '../../assets/Nyamwange.pdf'
 
 const CTA = () => {
   return (
