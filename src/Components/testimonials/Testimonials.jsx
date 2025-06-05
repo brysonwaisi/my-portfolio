@@ -37,7 +37,7 @@ const data = [
     avatar: AVATAR4,
     name: "Bruce Tilla",
     review:
-      "Great communications and collaboration skills that make him a good team player.",
+      "Great communication and collaboration skills that make him a good team player.",
   },
 ];
 

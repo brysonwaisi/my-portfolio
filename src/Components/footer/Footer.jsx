@@ -1,8 +1,8 @@
 import React from "react";
 import "./Footer.css";
 import { BsFacebook } from "react-icons/bs";
-import { BsTwitter } from "react-icons/bs";
 import { BsLinkedin } from "react-icons/bs";
+import { BsMedium } from "react-icons/bs"
 
 const Footer = () => {
   return (
@@ -44,14 +44,14 @@ const Footer = () => {
           <BsFacebook />
         </a>
         <a
-          href="https://twitter.com/brysonwaisi"
+          href="https://medium.com/@brysonnyamwange"
           target="_blank"
           rel="noreferrer"
         >
-          <BsTwitter />
+          <BsMedium />
         </a>
         <a
-          href="https://www.linkedin.com/in/bryson-nyamwange-a2b21014a/"
+          href="https://www.linkedin.com/in/nyamwangeb/"
           target="_blank"
           rel="noreferrer"
         >

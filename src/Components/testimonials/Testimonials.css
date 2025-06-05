@@ -1,6 +1,7 @@
 .container.testimonials__container {
-    width: 40%;
+    width: 75%;
     padding-bottom: 4rem;
+    border-radius: 1rem;
 }
 
 .client__avatar {

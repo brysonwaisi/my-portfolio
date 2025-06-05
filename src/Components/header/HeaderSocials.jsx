@@ -1,7 +1,7 @@
 import React from "react";
 import { FaLinkedin } from "react-icons/fa";
 import { BsGithub } from "react-icons/bs";
-import { FaTwitter } from "react-icons/fa";
+import { FaMedium } from "react-icons/fa";
 
 const HeaderSocials = () => {
   return (
@@ -18,11 +18,11 @@ const HeaderSocials = () => {
         <BsGithub />
       </a>
       <a
-        href="https://twitter.com/brysonwaisi"
+        href="https://medium.com/@brysonnyamwange"
         target="_blank"
         rel="noreferrer"
       >
-        <FaTwitter />
+        <FaMedium />
       </a>
     </div>
   );
