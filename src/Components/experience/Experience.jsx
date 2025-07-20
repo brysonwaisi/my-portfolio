@@ -21,6 +21,12 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
+                Golang
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
                 <h4>Python</h4>
               </div>
             </article>
@@ -45,7 +51,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Scripting</h4>
+                <h4>Shell Scripting</h4>
               </div>
             </article>
             <article className="experience__details">
